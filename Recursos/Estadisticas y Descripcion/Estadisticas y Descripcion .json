@@ -1,0 +1,444 @@
+[
+  {
+    "nombre": "Absol",
+    "nivel": 100,
+    "descripcion": "Conocido como el Pokémon Catástrofe, puede predecir desastres naturales, lo que ha hecho que la gente lo tema erróneamente como portador de calamidades.",
+    "estadisticas": {
+      "ps": 310,
+      "ataque": 400,
+      "defensa": 260,
+      "velocidad": 345,
+      "ataqueEspecial": 315,
+      "defensaEspecial": 260
+    }
+  },
+  {
+    "nombre": "Articuno",
+    "nivel": 100,
+    "descripcion": "Es un Pokémon legendario de hielo que puede controlar el frío. Su elegante vuelo y sus hermosas alas azules lo hacen uno de los pájaros legendarios más reconocibles.",
+    "estadisticas": {
+      "ps": 384,
+      "ataque": 285,
+      "defensa": 350,
+      "velocidad": 285,
+      "ataqueEspecial": 370,
+      "defensaEspecial": 385
+    }
+  },
+  {
+    "nombre": "Banette",
+    "nivel": 100,
+    "descripcion": "Nació de un muñeco de peluche abandonado que cobró vida por los sentimientos de rencor. Busca al niño que lo tiró.",
+    "estadisticas": {
+      "ps": 320,
+      "ataque": 345,
+      "defensa": 285,
+      "velocidad": 285,
+      "ataqueEspecial": 305,
+      "defensaEspecial": 285
+    }
+  },
+  {
+    "nombre": "Blaziken",
+    "nivel": 100,
+    "descripcion": "Pokémon de tipo fuego y lucha que evoluciona de Combusken. Sus piernas pueden lanzar patadas con llamas intensas que dejan estelas de fuego.",
+    "estadisticas": {
+      "ps": 330,
+      "ataque": 390,
+      "defensa": 270,
+      "velocidad": 300,
+      "ataqueEspecial": 365,
+      "defensaEspecial": 270
+    }
+  },
+  {
+    "nombre": "Charizard",
+    "nivel": 100,
+    "descripcion": "Escupe fuego tan caliente que derrite rocas. Puede causar incendios forestales sin querer. Vuela por el cielo en busca de oponentes fuertes.",
+    "estadisticas": {
+      "ps": 340,
+      "ataque": 319,
+      "defensa": 278,
+      "velocidad": 350,
+      "ataqueEspecial": 394,
+      "defensaEspecial": 315
+    }
+  },
+  {
+    "nombre": "Crobat",
+    "nivel": 100,
+    "descripcion": "Ha desarrollado un cuarto par de alas que le permiten volar silenciosamente para acercarse a sus presas sin ser detectado.",
+    "estadisticas": {
+      "ps": 340,
+      "ataque": 350,
+      "defensa": 300,
+      "velocidad": 410,
+      "ataqueEspecial": 270,
+      "defensaEspecial": 300
+    }
+  },
+  {
+    "nombre": "Dragonite",
+    "nivel": 100,
+    "descripcion": "Dicen que vive en algún lugar en el mar. Este Pokémon tiene inteligencia similar a la humana y un carácter amable que le permite salvar a personas que se ahogan.",
+    "estadisticas": {
+      "ps": 386,
+      "ataque": 403,
+      "defensa": 350,
+      "velocidad": 300,
+      "ataqueEspecial": 350,
+      "defensaEspecial": 350
+    }
+  },
+  {
+    "nombre": "Dugtrio",
+    "nivel": 100,
+    "descripcion": "Trío de Diglett. Cava túneles subterráneos a gran velocidad, causando vibraciones en la superficie. Puede excavar a 100 km/h.",
+    "estadisticas": {
+      "ps": 235,
+      "ataque": 350,
+      "defensa": 250,
+      "velocidad": 420,
+      "ataqueEspecial": 250,
+      "defensaEspecial": 250
+    }
+  },
+  {
+    "nombre": "Flygon",
+    "nivel": 100,
+    "descripcion": "Se le conoce como \"el espíritu del desierto\". Crea tormentas de arena batiendo sus alas y canta una melodía que suena como un tarareo.",
+    "estadisticas": {
+      "ps": 330,
+      "ataque": 350,
+      "defensa": 300,
+      "velocidad": 350,
+      "ataqueEspecial": 320,
+      "defensaEspecial": 300
+    }
+  },
+  {
+    "nombre": "Gardevoir",
+    "nivel": 100,
+    "descripcion": "Tiene el poder de predecir el futuro. Se dice que cuando su entrenador está en peligro, puede distorsionar las dimensiones con poderes psíquicos para protegerlo.",
+    "estadisticas": {
+      "ps": 340,
+      "ataque": 265,
+      "defensa": 265,
+      "velocidad": 300,
+      "ataqueEspecial": 415,
+      "defensaEspecial": 395
+    }
+  },
+  {
+    "nombre": "Gengar",
+    "nivel": 100,
+    "descripcion": "En noches de luna llena, disfruta imitando las sombras de la gente para asustarla. Puede esconderse perfectamente en la sombra de cualquier cosa.",
+    "estadisticas": {
+      "ps": 260,
+      "ataque": 265,
+      "defensa": 260,
+      "velocidad": 410,
+      "ataqueEspecial": 410,
+      "defensaEspecial": 275
+    }
+  },
+  {
+    "nombre": "Glalie",
+    "nivel": 100,
+    "descripcion": "Puede congelar la humedad del aire para formar cristales de hielo con los que recubre su cuerpo. Puede congelar instantáneamente a su presa.",
+    "estadisticas": {
+      "ps": 330,
+      "ataque": 300,
+      "defensa": 300,
+      "velocidad": 300,
+      "ataqueEspecial": 300,
+      "defensaEspecial": 300
+    }
+  },
+  {
+    "nombre": "Golem",
+    "nivel": 100,
+    "descripcion": "Su cuerpo rocoso es tan resistente que ni la dinamita puede hacerle daño. Se enrolla y rueda para moverse, arrollando todo a su paso.",
+    "estadisticas": {
+      "ps": 330,
+      "ataque": 390,
+      "defensa": 430,
+      "velocidad": 245,
+      "ataqueEspecial": 245,
+      "defensaEspecial": 265
+    }
+  },
+  {
+    "nombre": "Gyarados",
+    "nivel": 100,
+    "descripcion": "Pokémon famoso por su ferocidad natural. Raramente se ve, pero ha destruido ciudades enteras en un ataque de furia.",
+    "estadisticas": {
+      "ps": 394,
+      "ataque": 385,
+      "defensa": 299,
+      "velocidad": 281,
+      "ataqueEspecial": 300,
+      "defensaEspecial": 350
+    }
+  },
+  {
+    "nombre": "Hariyama",
+    "nivel": 100,
+    "descripcion": "Sus grandes palmas pueden detener un tren en movimiento con un solo golpe. Le gusta desafiar a oponentes más fuertes que él.",
+    "estadisticas": {
+      "ps": 444,
+      "ataque": 390,
+      "defensa": 300,
+      "velocidad": 250,
+      "ataqueEspecial": 230,
+      "defensaEspecial": 300
+    }
+  },
+  {
+    "nombre": "Heracross",
+    "nivel": 100,
+    "descripcion": "Sus cuernos tienen forma de tenazas. Con ellos levanta y arroja a sus rivales. Es sorprendentemente potente a pesar de su tamaño.",
+    "estadisticas": {
+      "ps": 330,
+      "ataque": 385,
+      "defensa": 295,
+      "velocidad": 285,
+      "ataqueEspecial": 240,
+      "defensaEspecial": 325
+    }
+  },
+  {
+    "nombre": "Machamp",
+    "nivel": 100,
+    "descripcion": "Con sus cuatro brazos puede lanzar 1000 puñetazos en 2 segundos. Puede mover montañas solo con una mano.",
+    "estadisticas": {
+      "ps": 384,
+      "ataque": 410,
+      "defensa": 300,
+      "velocidad": 255,
+      "ataqueEspecial": 265,
+      "defensaEspecial": 285
+    }
+  },
+  {
+    "nombre": "Metagross",
+    "nivel": 100,
+    "descripcion": "Tiene cuatro cerebros que procesan información a la velocidad de un superordenador. Dobla sus pesadas patas para levitar y moverse.",
+    "estadisticas": {
+      "ps": 330,
+      "ataque": 405,
+      "defensa": 390,
+      "velocidad": 270,
+      "ataqueEspecial": 370,
+      "defensaEspecial": 350
+    }
+  },
+  {
+    "nombre": "Mewtwo",
+    "nivel": 100,
+    "descripcion": "Creado por manipulación genética, es considerado el Pokémon más fuerte. Su ADN es casi igual al de Mew, pero su tamaño y ferocidad son mucho mayores.",
+    "estadisticas": {
+      "ps": 354,
+      "ataque": 350,
+      "defensa": 306,
+      "velocidad": 410,
+      "ataqueEspecial": 447,
+      "defensaEspecial": 366
+    }
+  },
+  {
+    "nombre": "Nidoking",
+    "nivel": 100,
+    "descripcion": "Su cola es tan poderosa que puede derribar una torre de transmisión de electricidad. Las espinas duras que cubren su cuerpo segregan veneno al contacto.",
+    "estadisticas": {
+      "ps": 343,
+      "ataque": 352,
+      "defensa": 305,
+      "velocidad": 285,
+      "ataqueEspecial": 315,
+      "defensaEspecial": 275
+    }
+  },
+  {
+    "nombre": "Pidgeot",
+    "nivel": 100,
+    "descripcion": "Este Pokémon vuela a una velocidad de Mach 2, buscando presas en áreas extensas. Sus garras son mortíferas.",
+    "estadisticas": {
+      "ps": 343,
+      "ataque": 300,
+      "defensa": 275,
+      "velocidad": 391,
+      "ataqueEspecial": 270,
+      "defensaEspecial": 270
+    }
+  },
+  {
+    "nombre": "Pikachu",
+    "nivel": 100,
+    "descripcion": "Cuando se enfada, libera inmediatamente la electricidad acumulada en las bolsas de sus mejillas. Uno de los Pokémon más populares y reconocibles.",
+    "estadisticas": {
+      "ps": 274,
+      "ataque": 285,
+      "defensa": 240,
+      "velocidad": 350,
+      "ataqueEspecial": 295,
+      "defensaEspecial": 270
+    }
+  },
+  {
+    "nombre": "Raikou",
+    "nivel": 100,
+    "descripcion": "Pokémon legendario que personifica la velocidad del relámpago. El rugido de este Pokémon envía ondas de choque por el aire y sacude el suelo como si hubieran caído rayos.",
+    "estadisticas": {
+      "ps": 384,
+      "ataque": 315,
+      "defensa": 295,
+      "velocidad": 365,
+      "ataqueEspecial": 365,
+      "defensaEspecial": 295
+    }
+  },
+  {
+    "nombre": "Rayquaza",
+    "nivel": 100,
+    "descripcion": "Legendario Pokémon que vive en la capa de ozono. Vuela continuamente por el cielo consumiendo meteoros y otros objetos espaciales, evitando que estos caigan a la Tierra.",
+    "estadisticas": {
+      "ps": 404,
+      "ataque": 405,
+      "defensa": 350,
+      "velocidad": 395,
+      "ataqueEspecial": 405,
+      "defensaEspecial": 350
+    }
+  },
+  {
+    "nombre": "Salamence",
+    "nivel": 100,
+    "descripcion": "Siempre soñó con volar, y tras mucha evolución, finalmente lo logró al desarrollar alas. Vuela por el cielo buscando presas.",
+    "estadisticas": {
+      "ps": 394,
+      "ataque": 405,
+      "defensa": 300,
+      "velocidad": 350,
+      "ataqueEspecial": 370,
+      "defensaEspecial": 280
+    }
+  },
+  {
+    "nombre": "Sceptile",
+    "nivel": 100,
+    "descripcion": "Las hojas que crecen en su cuerpo son muy afiladas. Salta de árbol en árbol con gran agilidad, confundiendo a sus oponentes.",
+    "estadisticas": {
+      "ps": 320,
+      "ataque": 335,
+      "defensa": 280,
+      "velocidad": 390,
+      "ataqueEspecial": 365,
+      "defensaEspecial": 295
+    }
+  },
+  {
+    "nombre": "Scyther",
+    "nivel": 100,
+    "descripcion": "Sus guadañas se vuelven más afiladas con cada combate. Puede rebanar troncos gruesos de un solo tajo. Se mueve tan rápido que parece que hubiera varios.",
+    "estadisticas": {
+      "ps": 320,
+      "ataque": 390,
+      "defensa": 300,
+      "velocidad": 365,
+      "ataqueEspecial": 255,
+      "defensaEspecial": 300
+    }
+  },
+  {
+    "nombre": "Slaking",
+    "nivel": 100,
+    "descripcion": "Es el Pokémon más perezoso. Sin embargo, su cuerpo es extremadamente poderoso; puede derribar una montaña moviendo un solo dedo.",
+    "estadisticas": {
+      "ps": 454,
+      "ataque": 435,
+      "defensa": 350,
+      "velocidad": 300,
+      "ataqueEspecial": 350,
+      "defensaEspecial": 265
+    }
+  },
+  {
+    "nombre": "Snorlax",
+    "nivel": 100,
+    "descripcion": "No se siente satisfecho hasta haber ingerido 400 kg de comida cada día. Cuando termina de comer, se queda dormido de forma instantánea.",
+    "estadisticas": {
+      "ps": 524,
+      "ataque": 350,
+      "defensa": 265,
+      "velocidad": 230,
+      "ataqueEspecial": 265,
+      "defensaEspecial": 350
+    }
+  },
+  {
+    "nombre": "Steelix",
+    "nivel": 100,
+    "descripcion": "Su cuerpo es más duro que cualquier metal ya que vive bajo una presión extrema en lo profundo de la tierra. Puede sobrevivir en temperaturas de más de 1000 grados.",
+    "estadisticas": {
+      "ps": 325,
+      "ataque": 355,
+      "defensa": 450,
+      "velocidad": 230,
+      "ataqueEspecial": 230,
+      "defensaEspecial": 255
+    }
+  },
+  {
+    "nombre": "Swampert",
+    "nivel": 100,
+    "descripcion": "Puede detectar tormentas inminentes a través de las vibraciones en el agua con las aletas de sus mejillas. Es tan fuerte que puede arrastrar un barco.",
+    "estadisticas": {
+      "ps": 384,
+      "ataque": 350,
+      "defensa": 350,
+      "velocidad": 260,
+      "ataqueEspecial": 335,
+      "defensaEspecial": 330
+    }
+  },
+  {
+    "nombre": "Tyranitar",
+    "nivel": 100,
+    "descripcion": "Tan poderoso que puede derribar una montaña entera para hacer su nido. Este Pokémon vaga por las montañas en constante búsqueda de nuevos oponentes para luchar.",
+    "estadisticas": {
+      "ps": 404,
+      "ataque": 403,
+      "defensa": 350,
+      "velocidad": 261,
+      "ataqueEspecial": 370,
+      "defensaEspecial": 310
+    }
+  },
+  {
+    "nombre": "Umbreon",
+    "nivel": 100,
+    "descripcion": "Evolucionó tras una exposición a los rayos de la luna. Se esconde en la oscuridad y espera a que sus enemigos se muevan. Los anillos de su cuerpo brillan cuando ataca.",
+    "estadisticas": {
+      "ps": 394,
+      "ataque": 265,
+      "defensa": 350,
+      "velocidad": 315,
+      "ataqueEspecial": 260,
+      "defensaEspecial": 395
+    }
+  },
+  {
+    "nombre": "Venusaur",
+    "nivel": 100,
+    "descripcion": "La planta de su espalda florece cuando absorbe energía solar. El aroma de la flor calma los ánimos de las personas y Pokémon que lo rodean.",
+    "estadisticas": {
+      "ps": 364,
+      "ataque": 348,
+      "defensa": 348,
+      "velocidad": 300,
+      "ataqueEspecial": 350,
+      "defensaEspecial": 350
+    }
+  }
+]
