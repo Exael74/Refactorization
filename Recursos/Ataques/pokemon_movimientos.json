@@ -1,0 +1,240 @@
+[
+  {
+    "nombre": "Absol",
+    "tipo": "Siniestro",
+    "movimientosFisicos": ["Tajo Umbrío", "Garra Brutal", "Psico-corte", "Tajo Aéreo", "Golpe Bajo"],
+    "movimientosEspeciales": ["Bola Sombra", "Pulso Umbrío", "Rayo de Hielo", "Fuego Fatuo"],
+    "movimientosEstado": ["Premonición", "Danza Espada", "Provocar", "Detección"]
+  },
+  {
+    "nombre": "Articuno",
+    "tipo": "Hielo",
+    "movimientosFisicos": ["Ala de Acero", "Golpe Aéreo", "Ataque Aéreo"],
+    "movimientosEspeciales": ["Rayo Hielo", "Ventisca", "Rayo Aurora", "Viento Hielo", "Poder Pasado"],
+    "movimientosEstado": ["Agilidad", "Neblina", "Reflejo", "Descanso", "Protección"]
+  },
+  {
+    "nombre": "Banette",
+    "tipo": "Fantasma",
+    "movimientosFisicos": ["Puño Sombra", "Golpe Fantasma", "Garra Umbría"],
+    "movimientosEspeciales": ["Bola Sombra", "Fuego Fatuo", "Infortunio"],
+    "movimientosEstado": ["Maldición", "Mal de Ojo", "Bufo", "Rencor", "Tinieblas"]
+  },
+  {
+    "nombre": "Blaziken",
+    "tipo": "Fuego",
+    "movimientosFisicos": ["Patada Ígnea", "Gancho Alto", "Puño Fuego", "Pájaro Osado", "Golpe Bajo"],
+    "movimientosEspeciales": ["Lanzallamas", "Llamarada", "Onda Ígnea", "Tóxico"],
+    "movimientosEstado": ["Protección", "Doble Equipo", "Foco Energía", "Día Soleado"]
+  },
+  {
+    "nombre": "Charizard",
+    "tipo": "Fuego",
+    "movimientosFisicos": ["Garra Dragón", "Lanzallamas", "Puño Fuego", "Golpe Aéreo"],
+    "movimientosEspeciales": ["Lanzallamas", "Llamarada", "Pulso Dragón", "Onda Ígnea", "Rayo Solar"],
+    "movimientosEstado": ["Día Soleado", "Danza Dragón", "Rugido", "Pantalla de Humo"]
+  },
+  {
+    "nombre": "Crobat",
+    "tipo": "Veneno",
+    "movimientosFisicos": ["Veneno X", "Ala de Acero", "Colmillo Veneno", "Acróbata"],
+    "movimientosEspeciales": ["Aire Afilado", "Tóxico", "Zumbido"],
+    "movimientosEstado": ["Supersónico", "Confusión", "Tóxico", "Protección", "Detección"]
+  },
+  {
+    "nombre": "Dragonite",
+    "tipo": "Dragón",
+    "movimientosFisicos": ["Puño Fuego", "Puño Trueno", "Puño Hielo", "Garra Dragón", "Enfado"],
+    "movimientosEspeciales": ["Hiperrayo", "Pulso Dragón", "Rayo Hielo", "Trueno"],
+    "movimientosEstado": ["Danza Dragón", "Barrera", "Protección", "Descanso"]
+  },
+  {
+    "nombre": "Dugtrio",
+    "tipo": "Tierra",
+    "movimientosFisicos": ["Terremoto", "Fisura", "Roca Afilada", "Cuchillada"],
+    "movimientosEspeciales": ["Lanzarrocas", "Bucle Arena"],
+    "movimientosEstado": ["Arena", "Excavar", "Sustituto", "Ataque Arena"]
+  },
+  {
+    "nombre": "Flygon",
+    "tipo": "Tierra",
+    "movimientosFisicos": ["Terremoto", "Garra Dragón", "Cola Dragón", "Roca Afilada"],
+    "movimientosEspeciales": ["Lanzallamas", "Dragoaliento", "Bucle Arena", "Pulso Dragón"],
+    "movimientosEstado": ["Protección", "Chirrido", "Zumbido", "Danza Dragón"]
+  },
+  {
+    "nombre": "Gardevoir",
+    "tipo": "Psíquico",
+    "movimientosFisicos": ["Psico-Corte", "Hoja Mágica"],
+    "movimientosEspeciales": ["Psíquico", "Bola Sombra", "Voz Cautivadora", "Fuerza Lunar", "Rayo Carga"],
+    "movimientosEstado": ["Paz Mental", "Doble Equipo", "Hipnosis", "Protección", "Reflejo"]
+  },
+  {
+    "nombre": "Gengar",
+    "tipo": "Fantasma",
+    "movimientosFisicos": ["Puño Sombra", "Golpe Bajo"],
+    "movimientosEspeciales": ["Bola Sombra", "Pulso Umbrío", "Psíquico", "Rayo Hielo", "Tóxico"],
+    "movimientosEstado": ["Hipnosis", "Maldición", "Mal de Ojo", "Pesadilla", "Fuego Fatuo"]
+  },
+  {
+    "nombre": "Glalie",
+    "tipo": "Hielo",
+    "movimientosFisicos": ["Cabezazo Zen", "Alud", "Colmillo Hielo"],
+    "movimientosEspeciales": ["Rayo Hielo", "Ventisca", "Viento Hielo", "Bola Sombra"],
+    "movimientosEstado": ["Protección", "Vaho Gélido", "Cara Susto", "Granizo", "Maldición"]
+  },
+  {
+    "nombre": "Golem",
+    "tipo": "Roca",
+    "movimientosFisicos": ["Terremoto", "Roca Afilada", "Pedrada", "Desenrollar", "Puño Fuego"],
+    "movimientosEspeciales": ["Lanzarrocas", "Foco Resplandor"],
+    "movimientosEstado": ["Defensa Férrea", "Explosión", "Autoexplosión", "Protección"]
+  },
+  {
+    "nombre": "Gyarados",
+    "tipo": "Agua",
+    "movimientosFisicos": ["Cascada", "Acua Cola", "Triturar", "Danza Dragón", "Colmillo Hielo"],
+    "movimientosEspeciales": ["Hidrobomba", "Lanzallamas", "Rayo Hielo", "Trueno"],
+    "movimientosEstado": ["Danza Dragón", "Intimidación", "Protección", "Rugido"]
+  },
+  {
+    "nombre": "Hariyama",
+    "tipo": "Lucha",
+    "movimientosFisicos": ["Golpe Cuerpo", "Golpe Bajo", "Empujón", "Tiro Vital", "Puño Dinámico"],
+    "movimientosEspeciales": ["Onda Certera", "Tóxico"],
+    "movimientosEstado": ["Detectar", "Foco Energía", "Aguante", "Corpulencia", "Prioridad"]
+  },
+  {
+    "nombre": "Heracross",
+    "tipo": "Bicho",
+    "movimientosFisicos": ["Megacuerno", "Inversión", "Gancho Alto", "Combate Cercano", "Tajo Cruzado"],
+    "movimientosEspeciales": ["Pin Misil", "Contraataque"],
+    "movimientosEstado": ["Descanso", "Aguante", "Venganza", "Foco Energía"]
+  },
+  {
+    "nombre": "Machamp",
+    "tipo": "Lucha",
+    "movimientosFisicos": ["Golpe Cruzado", "Puño Dinámico", "Tajo Cruzado", "Lanzamiento", "Roca Afilada"],
+    "movimientosEspeciales": ["Onda Certera", "Foco Resplandor"],
+    "movimientosEstado": ["Corpulencia", "Descanso", "Protección", "Aguante"]
+  },
+  {
+    "nombre": "Metagross",
+    "tipo": "Acero",
+    "movimientosFisicos": ["Puño Meteoro", "Cabezazo Zen", "Garra Metal", "Golpe Meteoro", "Terremoto"],
+    "movimientosEspeciales": ["Psíquico", "Foco Resplandor", "Rayo Hielo"],
+    "movimientosEstado": ["Agilidad", "Barrera", "Confusión", "Defensa Férrea", "Luz Anular"]
+  },
+  {
+    "nombre": "Mewtwo",
+    "tipo": "Psíquico",
+    "movimientosFisicos": ["Psico-Corte", "Golpe Aéreo", "Puño Hielo"],
+    "movimientosEspeciales": ["Psíquico", "Bola Sombra", "Rayo Hielo", "Trueno", "Onda Certera"],
+    "movimientosEstado": ["Amnesia", "Recuperación", "Paz Mental", "Barrera", "Protección"]
+  },
+  {
+    "nombre": "Nidoking",
+    "tipo": "Veneno",
+    "movimientosFisicos": ["Megacuerno", "Terremoto", "Puño Fuego", "Puño Hielo", "Puño Trueno"],
+    "movimientosEspeciales": ["Rayo Hielo", "Lanzallamas", "Trueno", "Pulso Dragón", "Tóxico"],
+    "movimientosEstado": ["Protección", "Rugido", "Chirrido", "Tóxico"]
+  },
+  {
+    "nombre": "Pidgeot",
+    "tipo": "Normal",
+    "movimientosFisicos": ["Ataque Aéreo", "Ala de Acero", "Golpe Aéreo", "Pájaro Osado"],
+    "movimientosEspeciales": ["Aire Afilado", "Hiperrayo", "Tajo Aéreo"],
+    "movimientosEstado": ["Agilidad", "Doble Equipo", "Ataque Arena", "Protección"]
+  },
+  {
+    "nombre": "Pikachu",
+    "tipo": "Eléctrico",
+    "movimientosFisicos": ["Tacleada de Voltios", "Cola Férrea", "Placaje Eléctrico", "Puño Trueno"],
+    "movimientosEspeciales": ["Rayo", "Trueno", "Electrocañón", "Bola Voltio"],
+    "movimientosEstado": ["Onda Trueno", "Doble Equipo", "Rizo Defensa", "Agilidad", "Sustituto"]
+  },
+  {
+    "nombre": "Raikou",
+    "tipo": "Eléctrico",
+    "movimientosFisicos": ["Colmillo Trueno", "Placaje Eléctrico", "Colmillo Hielo"],
+    "movimientosEspeciales": ["Trueno", "Rayo", "Bola Voltio", "Pulso Umbrío", "Rayo Cargado"],
+    "movimientosEstado": ["Rugido", "Onda Trueno", "Reflejo", "Descanso", "Protección"]
+  },
+  {
+    "nombre": "Rayquaza",
+    "tipo": "Dragón",
+    "movimientosFisicos": ["Garra Dragón", "Ascenso Draco", "Terremoto", "Avalancha", "Cola Dragón"],
+    "movimientosEspeciales": ["Pulso Dragón", "Hiperrayo", "Rayo V de Fuego", "Rayo Hielo", "Trueno"],
+    "movimientosEstado": ["Danza Dragón", "Velocidad Extrema", "Protección", "Descanso"]
+  },
+  {
+    "nombre": "Salamence",
+    "tipo": "Dragón",
+    "movimientosFisicos": ["Garra Dragón", "Enfado", "Triturar", "Colmillo Fuego", "Avalancha"],
+    "movimientosEspeciales": ["Lanzallamas", "Pulso Dragón", "Hidropulso", "Furia Dragón"],
+    "movimientosEstado": ["Intimidación", "Danza Dragón", "Protección", "Rugido"]
+  },
+  {
+    "nombre": "Sceptile",
+    "tipo": "Planta",
+    "movimientosFisicos": ["Hoja Aguda", "Golpe Aéreo", "Cola Dragón", "Garra Dragón", "Tijera X"],
+    "movimientosEspeciales": ["Energibola", "Tormenta Floral", "Pulso Dragón", "Gigadrenado"],
+    "movimientosEstado": ["Agilidad", "Danza Espada", "Protección", "Día Soleado"]
+  },
+  {
+    "nombre": "Scyther",
+    "tipo": "Bicho",
+    "movimientosFisicos": ["Tijera X", "Ala de Acero", "Golpe Aéreo", "Tajo Aéreo", "Danza Espada"],
+    "movimientosEspeciales": ["Zumbido", "Viento Cortante"],
+    "movimientosEstado": ["Agilidad", "Doble Equipo", "Foco Energía", "Protección"]
+  },
+  {
+    "nombre": "Slaking",
+    "tipo": "Normal",
+    "movimientosFisicos": ["Golpe Cuerpo", "Demolición", "Terremoto", "Contraataque", "Golpe Bajo"],
+    "movimientosEspeciales": ["Hiperrayo", "Rayo Hielo", "Fuego Fatuo"],
+    "movimientosEstado": ["Descanso", "Bostezo", "Relajar", "Holgazanear"]
+  },
+  {
+    "nombre": "Snorlax",
+    "tipo": "Normal",
+    "movimientosFisicos": ["Golpe Cuerpo", "Terremoto", "Puño Fuego", "Puño Hielo", "Puño Trueno"],
+    "movimientosEspeciales": ["Hiperrayo", "Lanzallamas", "Rayo Hielo", "Pulso Umbrío"],
+    "movimientosEstado": ["Descanso", "Bostezo", "Amnesia", "Maldición", "Rugido"]
+  },
+  {
+    "nombre": "Steelix",
+    "tipo": "Acero",
+    "movimientosFisicos": ["Cola Férrea", "Avalancha", "Terremoto", "Furia Dragón", "Golpe Cabeza"],
+    "movimientosEspeciales": ["Aliento Dragón", "Foco Resplandor", "Lanzarrocas"],
+    "movimientosEstado": ["Rugido", "Chirrido", "Afilar", "Defensa Férrea", "Excavar"]
+  },
+  {
+    "nombre": "Swampert",
+    "tipo": "Agua",
+    "movimientosFisicos": ["Cascada", "Terremoto", "Roca Afilada", "Avalancha", "Golpe Bajo"],
+    "movimientosEspeciales": ["Hidrobomba", "Disparo Lodo", "Hidropulso", "Rayo Hielo"],
+    "movimientosEstado": ["Protección", "Chirrido", "Maldición", "Descanso"]
+  },
+  {
+    "nombre": "Tyranitar",
+    "tipo": "Roca",
+    "movimientosFisicos": ["Triturar", "Avalancha", "Terremoto", "Roca Afilada", "Cola Dragón"],
+    "movimientosEspeciales": ["Lanzallamas", "Rayo Hielo", "Trueno", "Pulso Umbrío"],
+    "movimientosEstado": ["Tormenta Arena", "Rugido", "Danza Dragón", "Protección"]
+  },
+  {
+    "nombre": "Umbreon",
+    "tipo": "Siniestro",
+    "movimientosFisicos": ["Golpe Bajo", "Finta", "Persecución", "Buena Baza"],
+    "movimientosEspeciales": ["Pulso Umbrío", "Bola Sombra", "Psíquico", "Tóxico"],
+    "movimientosEstado": ["Protección", "Destello", "Maldición", "Deseo", "Luz Lunar"]
+  },
+  {
+    "nombre": "Venusaur",
+    "tipo": "Planta",
+    "movimientosFisicos": ["Látigo Cepa", "Golpe Cuerpo", "Planta Feroz", "Derribo"],
+    "movimientosEspeciales": ["Rayo Solar", "Energibola", "Bomba Lodo", "Síntesis", "Drenadoras"],
+    "movimientosEstado": ["Somnífero", "Danza Pétalo", "Dulce Aroma", "Día Soleado", "Tóxico"]
+  }
+]
